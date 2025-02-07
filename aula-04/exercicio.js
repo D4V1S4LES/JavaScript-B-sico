@@ -35,6 +35,7 @@ function livro(nome, ano, autor){
   }
 }
 
+//Preciso retornar a função caso queira algum resultado, ou ent utilizar alguma propriedade dela.
 //Criando uma variável com as propriedades que eu quero
 const livroRetorno = livro('O senhor dos Anéis', 1954, 'J. R. R. Tolkien');
 console.log(livroRetorno);
