@@ -31,7 +31,7 @@ function livro(nome, ano, autor){
   return {
     nome: nome.toUpperCase(),
     ano: 2025 - ano,
-    frase: nome + ' po ' + autor
+    frase: nome + ' por ' + autor
   }
 }
 
